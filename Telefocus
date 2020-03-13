@@ -442,7 +442,7 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1,RT News
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/playlist.m3u8
 #EXTINF:-1,Zee News
-http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,Saudi Quran
