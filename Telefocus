@@ -149,6 +149,8 @@ http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/playlist.m3u8
 #EXTINF:-1,Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,CHANNEL T1
+http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Provashi Bangla
 http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:-1,Family TV
