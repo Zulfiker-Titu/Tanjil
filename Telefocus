@@ -294,12 +294,16 @@ http://68.183.92.29:1935/live/star1/playlist.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
 http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
-http://103.58.73.26/streams/116/index.m3u8
+http://103.81.104.222/live/starsport1dh/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://103.58.73.26/streams/1016/index.m3u8
-#EXTINF:-1,Star Sports Select 1
+#EXTINF:-1,Star Sports Select 1 (Opt-01)
+http://103.81.104.222/live/startsports2/index.m3u8
+#EXTINF:-1,Star Sports Select 1 (Opt-02)
 http://103.58.73.26/streams/113/index.m3u8
-#EXTINF:-1,Star Sports Select 2
+#EXTINF:-1,Star Sports Select 2 (Opt-01)
+http://103.81.104.222/live/starrsportselect/index.m3u8
+#EXTINF:-1,Star Sports Select 2 (Opt-02)
 http://103.58.73.26/streams/114/index.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
@@ -478,11 +482,11 @@ http://103.58.73.26/streams/1011/index.m3u8
 #EXTINF:-1,HBO HD (Opt-01)
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1,HBO HD (Opt-02)
-https://delivery.macan.live/stream/hbo/index.m3u8?token=k7b3i8T7&v=
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
 #EXTINF:-1,HBO Hits
-https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=k7b3i8T7&v=
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=gratisan
 #EXTINF:-1,HBO Family
-https://delivery.macan.live/stream/hbo_family/index.m3u8?token=k7b3i8T7&v=
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=gratisan
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -501,8 +505,6 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1,ifilm
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox Action Movies
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Fox Premium Movies
