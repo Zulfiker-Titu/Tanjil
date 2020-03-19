@@ -239,6 +239,8 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
+#EXTINF:-1,Nick 2
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/537.ts
 #EXTINF:-1,Sony Yay
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Discovery Kids
@@ -606,11 +608,11 @@ http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold HD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+http://p5.giffy.be:8080/Testing1/Testing1/21058
 #EXTINF:-1,Star Select HD
 http://p5.giffy.be:8080/Testing1/Testing1/21055
-#EXTINF:-1,Star Bharat
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1,UTV HD
+http://p5.giffy.be:8080/Testing1/Testing1/21059
 #EXTINF:-1,Zee World
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/world/index.m3u8
 #EXTINF:-1,Dabang TV
@@ -643,10 +645,10 @@ http://104.237.60.234/live/gabruutv.m3u8
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
-#EXTINF:-1,FOX Life
-https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1,History TV HD
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1,Animal Planet HD
+http://p5.giffy.be:8080/Testing1/Testing1/21068
+#EXTINF:-1,FOX Life HD
+http://p5.giffy.be:8080/Testing1/Testing1/21061
 #EXTINF:-1,History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1,History TV 18 HD
@@ -665,6 +667,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+#EXTINF:-1,National Geographic HD
+http://p5.giffy.be:8080/Testing1/Testing1/21061
 #EXTINF:-1,YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1,ACC TV
@@ -787,8 +791,6 @@ http://ott-cdn.ucom.am/s10/index.m3u8
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1,vh1 (India)
 http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_hi/index.m3u8
-#EXTINF:-1,MTV India
-http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV HD
@@ -799,6 +801,8 @@ http://p5.giffy.be:8080/Testing1/Testing1/21053
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF:-1,Q Music
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1,1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1,Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1,Radio Contact Vision
