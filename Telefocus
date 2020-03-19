@@ -99,18 +99,16 @@ http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/colors_bangla_hi/index.m
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1,Sony Aath (Opt-2)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-#EXTINF:-1,Star Jalsha HD
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1,Star Jalsha (Opt-01)
+http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
+#EXTINF:-1,Star Jalsha (Opt-02)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-2)
 http://103.58.73.26/streams/115/index.m3u8
-#EXTINF:-1,Jalsha Movies (Opt-3)
-http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-1)
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
 http://103.58.73.26/streams/107/index.m3u8
 #EXTINF:-1,Zee Bangla (Opt-3)
