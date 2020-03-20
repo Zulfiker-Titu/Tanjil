@@ -327,8 +327,12 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,PTV Sports
+#EXTINF:-1,PTV Sports (Opt-01)
 http://51.158.144.124:8090/CR/1/index.m3u8
+#EXTINF:-1,PTV Sports (Opt-02)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1,Geo Super Sports
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/83ccf718ec6040646c295cb25dbef052.sdp2/chunks.m3u8
 #EXTINF:-1,espn
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,Arena Sport 1
@@ -497,6 +501,8 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1,Cinema World
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1,Lotus Macau
@@ -583,6 +589,8 @@ http://p5.giffy.be:8080/Testing1/Testing1/21056
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,Colors (Opt-02)
 http://103.111.120.46/hls/Colors.m3u8
+EXTINF:-1,Colors Rishtey
+http://p5.giffy.be:8080/Testing1/Testing1/21039
 #EXTINF:-1,Sony TV HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Sony TV
@@ -605,6 +613,8 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 http://p5.giffy.be:8080/Testing1/Testing1/21058
 #EXTINF:-1,Star Select HD
 http://p5.giffy.be:8080/Testing1/Testing1/21055
+#EXTINF:-1,Star Bharat
+https://livedoomovies.com/02_STAR_BHARAT_720p/chunklist.m3u8
 #EXTINF:-1,UTV HD
 http://p5.giffy.be:8080/Testing1/Testing1/21059
 #EXTINF:-1,Zee World
