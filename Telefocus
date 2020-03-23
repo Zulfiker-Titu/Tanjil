@@ -39,7 +39,7 @@ http://telelivetv.webredirect.org:8081/globeworld2020/deepto/playlist.m3u8
 https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="MOVIES",Duronto TV
 http://telelivetv.webredirect.org:8081/globeworld2020/duronto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.viacom18.com/images/uploads/59f992133a913NickelodeonSonicLogo.png" group-title="MOVIES",Sonic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="MOVIES",Sonic
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="MOVIES",Nick (Bangla)
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
