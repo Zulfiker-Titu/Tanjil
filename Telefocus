@@ -607,8 +607,6 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bigmagic/index.m3u
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,MK Six
 http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
-#EXTINF:-1,Hum Sitarey
-http://live.airteltvplus.com/hls/UxLS6bC_Gi7QivozQp4CcA/1568453439/hum_sitarey_low/index.m3u8
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1,ANALAI EXPRESS
@@ -719,10 +717,8 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xo/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:-1,Sony MIX (Opt-1)
 http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zoom (Opt-1)
+#EXTINF:-1,Zoom
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
-#EXTINF:-1,Zoom (Opt-2)
-http://live.airteltvplus.com/hls/O7fnqtaudubVDJ9r1Ns1XA/1568453124/zoom_hi/index.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #XTINF:-1,DIL SE
@@ -765,8 +761,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1,51
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1,vh1 (India)
-http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_hi/index.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV HD
