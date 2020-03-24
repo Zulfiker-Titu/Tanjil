@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.favpng.com/25/6/0/camera-lens-lens-flare-png-favpng-QqP6uF7SHqdJryVQTkTAiFN3c.jpg" group-title="Telefocus IPTV",[WhatsApp +8801711262512]
 https://streamable.com/gdj7r
-#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla Cinema",Ananda TV
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla Movies",Ananda TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Entertainment",Asian TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -89,17 +89,17 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC
 http://streamidvo.multitvsolution.in/TLCEng-a/playlist.m3u8
-#EXTINF:-1,Akaash Aath (Opt-1)
+#EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath (Opt-01)
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
-#EXTINF:-1,Akaash Aath (Opt-2)
+#EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath (Opt-02)
 http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
-#EXTINF:-1,Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla
 http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
-#EXTINF:-1,Sony Aath (Opt-1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-01)
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
-#EXTINF:-1,Sony Aath (Opt-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-02)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1,Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
