@@ -379,10 +379,6 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,RTA Sports (Opt-2)
 http://51.158.144.124:8090/CR/2/index.m3u8
-#EXTINF:-1,Willow
-http://51.158.144.124:8090/CR/7/index.m3u8
-#EXTINF:-1,Willow HD
-http://51.158.144.124:8090/CR/3/index.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
