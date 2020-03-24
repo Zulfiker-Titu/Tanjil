@@ -379,6 +379,10 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,RTA Sports (Opt-2)
 http://51.158.144.124:8090/CR/2/index.m3u8
+#EXTINF:-1,Euro Sports 1
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1,Euro Sports 2
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -419,6 +423,10 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1,Karbala Live 1
+http://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1,Karbala Live 2
+http://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
 #EXTINF:-1,Saudi Quran
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1,Saudi Sunnah
@@ -475,7 +483,9 @@ https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1,Fox Action Movies
+#EXTINF:-1,FOX Action Movies (Opt-01)
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1,Fox Action Movies (Opt-02)
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Fox Premium Movies
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
@@ -531,6 +541,14 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1,Movies Action HD
+http://p5.giffy.be:8080/Testing1/Testing1/21044
+#EXTINF:-1,Cine Active
+http://p5.giffy.be:8080/Testing1/Testing1/21045
+#EXTINF:-1,epic
+http://p5.giffy.be:8080/Testing1/Testing1/21057
 #EXTINF:-1,POP LIFE
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
 #EXTINF:-1,VH1
@@ -611,8 +629,12 @@ http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1,ANALAI EXPRESS
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
-#EXTINF:-1,GABRUU TV
+#EXTINF:-1,GABRU TV
 http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1,atv HD
+http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,atv
+https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
