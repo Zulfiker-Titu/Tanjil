@@ -237,8 +237,6 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
-#EXTINF:-1,Nick 2
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/537.ts
 #EXTINF:-1,Sony Yay
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Discovery Kids
@@ -255,8 +253,6 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,CARTOON NETWORK 3
-http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1,CN HD+
 http://p5.giffy.be:8080/Testing1/Testing1/21051
 #EXTINF:-1,KETNET JUNIOR
@@ -267,10 +263,8 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,DUBBI KIDS
-https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/master.m3u8
-#EXTINF:-1,SPACETOON KIDS
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,SPACETOON
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
