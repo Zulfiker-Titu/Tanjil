@@ -286,19 +286,19 @@ https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-02)
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Star Sports 1 (Opt-1)
-http://p5.giffy.be:8080/gabi12/gabi12/20730
+http://103.115.159.69:25461/2632020/2632020/100
 #EXTINF:-1,Star Sports 1 (Opt-2)
 http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
-http://p5.giffy.be:8080/gabi12/gabi12/20731
+http://103.115.159.69:25461/2632020/2632020/144
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://103.81.104.222/live/starsport1dh/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-01)
-http://p5.giffy.be:8080/gabi12/gabi12/20733
+http://103.115.159.69:25461/2632020/2632020/153
 #EXTINF:-1,Star Sports Select 1 (Opt-02)
 http://103.58.73.26/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2 (Opt-01)
-http://p5.giffy.be:8080/gabi12/gabi12/20733
+http://103.115.159.69:25461/2632020/2632020/154
 #EXTINF:-1,Star Sports Select 2 (Opt-02)
 http://103.58.73.26/streams/114/index.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
@@ -337,32 +337,8 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1,Sky Net Sports
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1,Bein Sports
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
-#EXTINF:-1,Bein Sports 1
-http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1,Bein Sports 2
-http://95.170.215.120/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1,Bein Sports 3
-http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
-#EXTINF:-1,Bein Sports 4
-http://95.170.215.120/hls/m3u8/BeinSport4.m3u8
-#EXTINF:-1,Bein Sports 5
-http://95.170.215.120/hls/m3u8/BeinSport5.m3u8
-#EXTINF:-1,Bein Sports 6
-http://95.170.215.120/hls/m3u8/BeinSport6.m3u8
-#EXTINF:-1,Bein Sports 7
-http://95.170.215.120/hls/m3u8/BeinSport7.m3u8
-#EXTINF:-1,Bein Sports 8
-http://95.170.215.120/hls/m3u8/BeinSport8.m3u8
-#EXTINF:-1,Bein Sports 9
-http://95.170.215.120/hls/m3u8/BeinSport9.m3u8
-#EXTINF:-1,Bein Sports 10
-http://95.170.215.120/hls/m3u8/BeinSport10.m3u8
-#EXTINF:-1,Bein Sports 11
-http://95.170.215.120/hls/m3u8/BeinSport11.m3u8
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,Dubai Racing
