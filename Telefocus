@@ -103,7 +103,7 @@ http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-02)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Jalsha#/media/File:Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Star_Jalsha?file=Star_Jalsha_HD_2019.png" group-title="Entertainment",Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Jalsha#/media/File:Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha (Opt-01)
 http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
