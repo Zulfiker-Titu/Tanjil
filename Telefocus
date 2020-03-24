@@ -103,27 +103,27 @@ http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath (Opt-02)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-#EXTINF:-1,Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Jalsha#/media/File:Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha (Opt-01)
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Jalsha#/media/File:Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha (Opt-01)
 http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
-#EXTINF:-1,Star Jalsha (Opt-02)
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Jalsha#/media/File:Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha (Opt-02)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
-#EXTINF:-1,Jalsha Movies (Opt-1)
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Jalsha_Movies#/media/File:Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies (Opt-1)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
-#EXTINF:-1,Jalsha Movies (Opt-2)
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Jalsha_Movies#/media/File:Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies (Opt-2)
 http://103.58.73.26/streams/115/index.m3u8
-#EXTINF:-1,Zee Bangla (Opt-1)
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla (Opt-1)
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
-#EXTINF:-1,Zee Bangla (Opt-2)
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla (Opt-2)
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1,Zee Bangla (Opt-3)
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla (Opt-3)
 https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
-#EXTINF:-1,Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
-#EXTINF:-1,Zee Bangla Cinema (Opt-1)
+#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-zee-bangla-cinema-logo-zee-cinema-bengali-language-7078085/preview.html" group-title="Bangla Movies",Zee Bangla (Opt-1)
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
-#EXTINF:-1,Zee Bangla Cinema (Opt-2)
+#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-zee-bangla-cinema-logo-zee-cinema-bengali-language-7078085/preview.html" group-title="Bangla Movies",Zee Bangla (Opt-2)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zbanglacnm/index.m3u8
 #EXTINF:-1,Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
