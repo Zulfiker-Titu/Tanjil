@@ -231,13 +231,13 @@ http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Pratidin_Time_logo.jpeg" group-title="Assamese",Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1,DD Odia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/DD_Odia.png" group-title="Odia",DD Odia
 http://streamidvo.multitvsolution.in/DDOdia-a/playlist.m3u8
-#EXTINF:-1,NEWS7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVZP85n/News7.png" group-title="Odia",News7
 http://news7.mycast.in/encode/news7/playlist.m3u8
-#EXTINF:-1,Naxatra News
+#EXTINF:-1 tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2018/11/Naxatra-News.png" group-title="Odia",Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
-#EXTINF:-1,Kanak News
+#EXTINF:-1 tvg-logo="http://kanaknews.com/wp-content/uploads/2018/12/K-LOGO-SMALL-1.png" group-title="Odia",Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
 #EXTINF:-1,Sony Yay
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
