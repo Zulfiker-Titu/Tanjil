@@ -165,13 +165,13 @@ http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
 http://cdn01.eiego.net:8081/playout/channels/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWnjmsW/Shopno-HD.jpg" group-title="Entertainment",Shopno HD
 http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
-#EXTINF:-1,Deshe Bideshe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qBHLrMr/Deshe-Bideshe.jpg" group-title="Entertainment",Deshe Bideshe
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1,TBN 24 USA
+#EXTINF:-1 tvg-logo="https://www.tbn24.com/images/logo.png" group-title="Entertainment",TBN 24 USA
 http://fingerme.dg21bd.com/TBN24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Time TV USA
+#EXTINF:-1 tvg-logo="https://timetvusa.com/images/ttv200.png" group-title="Entertainment",Time TV USA
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8
-#EXTINF:-1,Royal TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="Entertainment",Roal TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1,Rang TV
 http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
