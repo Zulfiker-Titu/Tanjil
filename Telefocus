@@ -781,6 +781,8 @@ http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Mooz HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Latido Music
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
 #EXTINF:-1,MUSIC 24
@@ -805,6 +807,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://p5.giffy.be:8080/Testing1/Testing1/21052
 #EXTINF:-1,MTV Beats
 http://p5.giffy.be:8080/Testing1/Testing1/21053
+#EXTINF:-1,Bonce TV
+https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF:-1,Q Music
