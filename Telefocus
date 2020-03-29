@@ -387,6 +387,8 @@ http://51.158.144.124:8090/CR/2/index.m3u8
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:-1,Euro Sports 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1,Fox Sports 1
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -494,13 +496,13 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,FOX Action Movies (Opt-01)
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1,Fox Action Movies (Opt-02)
-http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
-#EXTINF:-1,Fox Premium Movies
-http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+#EXTINF:-1,Fox Movies
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1,FX
-http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1,Fox Crime
-http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star World (UAE)
@@ -651,7 +653,9 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://p5.giffy.be:8080/Testing1/Testing1/21068
-#EXTINF:-1,FOX Life HD
+#EXTINF:-1,FOX Life
+https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+#EXTINF:-1,National Geographic HD
 http://p5.giffy.be:8080/Testing1/Testing1/21061
 #EXTINF:-1,History TV HD
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
