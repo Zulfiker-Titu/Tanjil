@@ -296,7 +296,7 @@ http://p5.giffy.be:8080/gabi12/gabi12/20731
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://103.81.104.222/live/starsport1dh/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-01)
-http://103.115.159.69:25461/2632020/2632020/153
+http://103.115.159.37:8080/starsportsselect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-02)
 http://p5.giffy.be:8080/gabi12/gabi12/20733
 #EXTINF:-1,Star Sports Select 2 (Opt-01)
