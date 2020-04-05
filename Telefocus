@@ -461,16 +461,16 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,Faith USA
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
-#EXTINF:-1,Star Movies (UAE)
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1,Star Movies Select HD
-http://103.115.159.69:25461/2632020/2632020/10
+#EXTINF:-1,HBO HD
+http://iptvfree.gq/live/hbo.m3u8
 #EXTINF:-1,HBO (Opt-01)
 http://103.58.73.26/streams/1011/index.m3u8
 #EXTINF:-1,HBO (Opt-02)
-http://103.115.159.69:25461/2632020/2632020/34
+http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO Hits
-http://103.115.159.69:25461/2632020/2632020/145
+http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -503,12 +503,14 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star World (UAE)
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1,Movie Kingdom 
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1,MOVIE ZONE
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
 #EXTINF:-1,CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1,MY CINEMA CHANNEL
@@ -583,9 +585,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 #EXTINF:-1,Movie Express
 http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
-#EXTINF:-1,Colors HD (Opt-01)
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Colors HD (Opt-02)
+#EXTINF:-1,Colors HD
 http://p5.giffy.be:8080/Testing1/Testing1/21056
 #EXTINF:-1,Colors (Opt-01)
 http://fr-c.movply.stream/hls/Colors.m3u8
