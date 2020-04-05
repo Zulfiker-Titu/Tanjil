@@ -645,9 +645,9 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
 #EXTINF:-1,GABRU TV
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1,atv HD
+#EXTINF:-1,atv SD
 http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,atv
+#EXTINF:-1,atv HD
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
 http://playhls.media.nic.in/live/vyas/index.m3u8
@@ -659,8 +659,8 @@ http://p5.giffy.be:8080/Testing1/Testing1/21068
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1,National Geographic HD
 http://p5.giffy.be:8080/Testing1/Testing1/21061
-#EXTINF:-1,History TV HD
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1,History TV
+http://103.115.159.37:8080/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1,History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1,History TV 18 HD
