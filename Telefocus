@@ -325,20 +325,20 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 http://51.158.144.124:8090/CR/1/index.m3u8
 #EXTINF:-1,PTV Sports (Opt-02)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1,Geo Super Sports
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/83ccf718ec6040646c295cb25dbef052.sdp2/chunks.m3u8
 #EXTINF:-1,espn
 http://npse.brots.world/espn2.m3u8
-#EXTINF:-1,Arena Sport 1
-http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1,Sky Net Sports
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
+#EXTINF:-1,Sky Net Sports 1
+https://tv4.chang55.com/live2/tv4ch02.stream/playlist.m3u8
+#EXTINF:-1,Sky Net Sports 2
+https://tv4.chang55.com/live2/tv4ch03.stream/playlist.m3u8
+#EXTINF:-1,Sky Net Sports 3
+https://tv4.chang55.com/live2/tv4ch04.stream/playlist.m3u8
+#EXTINF:-1,Sky Net Sports 4
+https://tv4.chang55.com/live2/tv4ch05.stream/playlist.m3u8
+#EXTINF:-1,Sky Net Sports 5
+https://tv4.chang55.com/live2/tv4ch06.stream/playlist.m3u8
 #EXTINF:-1,Bein Sports
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:-1,Bayern Munich TV
