@@ -483,6 +483,8 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1,AXN HD
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1,Lotus Macau
@@ -559,6 +561,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1,BFLIX Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1,Movies Action HD
 http://p5.giffy.be:8080/Testing1/Testing1/21044
 #EXTINF:-1,Cine Active
@@ -655,8 +659,10 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://p5.giffy.be:8080/Testing1/Testing1/21068
-#EXTINF:-1,FOX Life
+#EXTINF:-1,FOX Life (Opt-01)
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+#EXTINF:-1,Fox Life (Opt-02)
+http://vtv.iptvfree.gq:2086/live/foxlife.m3u8
 #EXTINF:-1,National Geographic HD
 http://p5.giffy.be:8080/Testing1/Testing1/21061
 #EXTINF:-1,History TV
@@ -715,6 +721,8 @@ http://proxyts.ec.cx:8082/hls1/fishtv.m3u8
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1,Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
+#EXTINF:-1,One Studio
+https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Blue Ant Extreme
