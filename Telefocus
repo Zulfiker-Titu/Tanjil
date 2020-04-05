@@ -385,6 +385,8 @@ http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 #EXTINF:-1,Fox Sports
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -425,10 +427,6 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1,Karbala Live 1
-http://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
-#EXTINF:-1,Karbala Live 2
-http://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
 #EXTINF:-1,Saudi Quran
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1,Saudi Sunnah
