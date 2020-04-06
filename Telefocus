@@ -222,7 +222,7 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Music",RTV Music
 http://23.106.120.40:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
-https://streamer-1.toffeelive.com/live/sangeet_bangla_720/index.m3u8
+http://103.141.66.36/bpk-tv/10129/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cgqjLxY/BVC-Bangla-TV.jpg" group-title="Entertainment",BVC Bangla TV
 http://103.113.14.218:8081/globalbangla/bvcbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-oujmC_xPCic/W7hNwyi3nPI/AAAAAAAACkY/O4vbZqc3UO4sEAB7DzG2b_SRBiodxEjogCLcBGAs/s200/Jonack.png" group-title="Assamese",Jonack TV
